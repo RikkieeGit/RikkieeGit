@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RikkieeGit(yuvrj singh)
+- 👋 Hi, I’m @RikkieeGit(yuvraj singh)
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React.js and node.js
 - 💞️ I’m looking to collaborate on api projects
